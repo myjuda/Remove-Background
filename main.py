@@ -2,7 +2,7 @@ from rembg import remove
 from PIL import Image
 import io
 
-input_path = "/Users/juanlozadacalderon/downloads/Remove background/macacos.jpg"
+input_path = "./Remove background/macacos.jpg"
 output_path = "output.png"  # Changed to PNG to preserve transparency
 
 # Open imagen input
